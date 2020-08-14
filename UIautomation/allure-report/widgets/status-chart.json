@@ -1,0 +1,191 @@
+[ {
+  "uid" : "410c52d31f513df8",
+  "name" : "test_screen_rmcs_gz",
+  "time" : {
+    "start" : 1594087828303,
+    "stop" : 1594087843925,
+    "duration" : 15622
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "395be86bc5fee070",
+  "name" : "test_screen_see_hs",
+  "time" : {
+    "start" : 1594087947519,
+    "stop" : 1594087957099,
+    "duration" : 9580
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7cc8db667fa504d7",
+  "name" : "test_screen_jc",
+  "time" : {
+    "start" : 1594087735234,
+    "stop" : 1594087748928,
+    "duration" : 13694
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "69d1b1fa811d5785",
+  "name" : "test_screen_rm_bjsd",
+  "time" : {
+    "start" : 1594087748932,
+    "stop" : 1594087764683,
+    "duration" : 15751
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7bf95393c1cb2d57",
+  "name" : "test_screen_rm_gzby",
+  "time" : {
+    "start" : 1594087764686,
+    "stop" : 1594087781300,
+    "duration" : 16614
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9e23938921ebcdfc",
+  "name" : "test_screen_see_cs",
+  "time" : {
+    "start" : 1594087937847,
+    "stop" : 1594087947509,
+    "duration" : 9662
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "516d4c0601216eb3",
+  "name" : "test_screen_rmhs_hnhk",
+  "time" : {
+    "start" : 1594087890957,
+    "stop" : 1594087906583,
+    "duration" : 15626
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eba964340c0d1d7",
+  "name" : "test_screen_rmhs_zghk",
+  "time" : {
+    "start" : 1594087922205,
+    "stop" : 1594087937844,
+    "duration" : 15639
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d83e46eecbd4fb1a",
+  "name" : "test_screen_rm_szba",
+  "time" : {
+    "start" : 1594087796984,
+    "stop" : 1594087812641,
+    "duration" : 15657
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aaf0300fee5adbf6",
+  "name" : "test_screen_rmcs_bj",
+  "time" : {
+    "start" : 1594087812646,
+    "stop" : 1594087828299,
+    "duration" : 15653
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2ba4262b91167842",
+  "name" : "test_screen_hs",
+  "time" : {
+    "start" : 1594087719152,
+    "stop" : 1594087735122,
+    "duration" : 15970
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "e3e3111806b5506c",
+  "name" : "test_chack_login",
+  "time" : {
+    "start" : 1594087718089,
+    "stop" : 1594087719148,
+    "duration" : 1059
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7b2f136d0abcbdca",
+  "name" : "test_screen_see_jc",
+  "time" : {
+    "start" : 1594087957103,
+    "stop" : 1594087966674,
+    "duration" : 9571
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "520267d8e51bb7cd",
+  "name" : "test_sereen_caty",
+  "time" : {
+    "start" : 1594087966679,
+    "stop" : 1594087982655,
+    "duration" : 15976
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "161ce45a04199836",
+  "name" : "test_screen_rmcs_sz",
+  "time" : {
+    "start" : 1594087859564,
+    "stop" : 1594087875294,
+    "duration" : 15730
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cbcf8b8e6a81c966",
+  "name" : "test_screen_rmhs_dfhk",
+  "time" : {
+    "start" : 1594087875297,
+    "stop" : 1594087890954,
+    "duration" : 15657
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "45e5b3e77ef68ac2",
+  "name" : "test_screen_rm_shpd",
+  "time" : {
+    "start" : 1594087781304,
+    "stop" : 1594087796981,
+    "duration" : 15677
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bcc6e30f2a2e2ee2",
+  "name" : "test_screen_rmcs_sh",
+  "time" : {
+    "start" : 1594087843930,
+    "stop" : 1594087859561,
+    "duration" : 15631
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1cf622917d811862",
+  "name" : "test_screen_rmhs_nfhk",
+  "time" : {
+    "start" : 1594087906586,
+    "stop" : 1594087922200,
+    "duration" : 15614
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

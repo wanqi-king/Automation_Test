@@ -1,0 +1,114 @@
+{
+  "total" : 19,
+  "items" : [ {
+    "uid" : "e6359ea3b3a06206792b050b256d6f13",
+    "name" : "机场筛选工具-航司筛选",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "0685881e8fef4386200fc99a06f613ea",
+    "name" : "机场航司筛选工具-撑死",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "76c1a89e029bf2806c0ddb06b8505b0b",
+    "name" : "登录功能",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "a429b2f267264f7c60834cb38780a246",
+    "name" : "机场航司筛选工具-机场筛选",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "3e2df3c10d7c9afcf539ba385f727997",
+    "name" : "机场航司筛选工具-热门机场推荐-北京首都-查看详情",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "b1c467e5deeced74151aa0bc456f6f02",
+    "name" : "机场航司筛选工具-热门机场推荐-广州白云-查看详情",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "75c48a40a40a6b9f683eab35d01f5ffd",
+    "name" : "机场航司筛选工具-热门机场推荐-上海浦东-查看详情",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "cb1eeeb4e27dc535cd34acb258fdc590",
+    "name" : "机场航司筛选工具-热门机场推荐-深圳宝安-查看详情",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "7652e1e8ea3363827bdcd3e12ee1f153",
+    "name" : "机场航司筛选工具-热门城市推荐-北京-查看详情",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "52d20c30ab98029656fa26d2864455ad",
+    "name" : "机场航司筛选工具-热门城市推荐-广州-查看详情",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}

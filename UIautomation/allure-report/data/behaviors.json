@@ -1,0 +1,328 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "登录功能",
+    "children" : [ {
+      "name" : "test_chack_login",
+      "uid" : "e3e3111806b5506c",
+      "parentUid" : "76c1a89e029bf2806c0ddb06b8505b0b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1594087718089,
+        "stop" : 1594087719148,
+        "duration" : 1059
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "76c1a89e029bf2806c0ddb06b8505b0b"
+  }, {
+    "name" : "机场筛选工具-航司筛选",
+    "children" : [ {
+      "name" : "test_screen_hs",
+      "uid" : "2ba4262b91167842",
+      "parentUid" : "e6359ea3b3a06206792b050b256d6f13",
+      "status" : "failed",
+      "time" : {
+        "start" : 1594087719152,
+        "stop" : 1594087735122,
+        "duration" : 15970
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "e6359ea3b3a06206792b050b256d6f13"
+  }, {
+    "name" : "机场航司筛选工具-机场筛选",
+    "children" : [ {
+      "name" : "test_screen_jc",
+      "uid" : "7cc8db667fa504d7",
+      "parentUid" : "a429b2f267264f7c60834cb38780a246",
+      "status" : "passed",
+      "time" : {
+        "start" : 1594087735234,
+        "stop" : 1594087748928,
+        "duration" : 13694
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "a429b2f267264f7c60834cb38780a246"
+  }, {
+    "name" : "机场航司筛选工具-热门机场推荐-北京首都-查看详情",
+    "children" : [ {
+      "name" : "test_screen_rm_bjsd",
+      "uid" : "69d1b1fa811d5785",
+      "parentUid" : "3e2df3c10d7c9afcf539ba385f727997",
+      "status" : "passed",
+      "time" : {
+        "start" : 1594087748932,
+        "stop" : 1594087764683,
+        "duration" : 15751
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "3e2df3c10d7c9afcf539ba385f727997"
+  }, {
+    "name" : "机场航司筛选工具-热门机场推荐-广州白云-查看详情",
+    "children" : [ {
+      "name" : "test_screen_rm_gzby",
+      "uid" : "7bf95393c1cb2d57",
+      "parentUid" : "b1c467e5deeced74151aa0bc456f6f02",
+      "status" : "passed",
+      "time" : {
+        "start" : 1594087764686,
+        "stop" : 1594087781300,
+        "duration" : 16614
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "b1c467e5deeced74151aa0bc456f6f02"
+  }, {
+    "name" : "机场航司筛选工具-热门机场推荐-上海浦东-查看详情",
+    "children" : [ {
+      "name" : "test_screen_rm_shpd",
+      "uid" : "45e5b3e77ef68ac2",
+      "parentUid" : "75c48a40a40a6b9f683eab35d01f5ffd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1594087781304,
+        "stop" : 1594087796981,
+        "duration" : 15677
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "75c48a40a40a6b9f683eab35d01f5ffd"
+  }, {
+    "name" : "机场航司筛选工具-热门机场推荐-深圳宝安-查看详情",
+    "children" : [ {
+      "name" : "test_screen_rm_szba",
+      "uid" : "d83e46eecbd4fb1a",
+      "parentUid" : "cb1eeeb4e27dc535cd34acb258fdc590",
+      "status" : "passed",
+      "time" : {
+        "start" : 1594087796984,
+        "stop" : 1594087812641,
+        "duration" : 15657
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "cb1eeeb4e27dc535cd34acb258fdc590"
+  }, {
+    "name" : "机场航司筛选工具-热门城市推荐-北京-查看详情",
+    "children" : [ {
+      "name" : "test_screen_rmcs_bj",
+      "uid" : "aaf0300fee5adbf6",
+      "parentUid" : "7652e1e8ea3363827bdcd3e12ee1f153",
+      "status" : "passed",
+      "time" : {
+        "start" : 1594087812646,
+        "stop" : 1594087828299,
+        "duration" : 15653
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "7652e1e8ea3363827bdcd3e12ee1f153"
+  }, {
+    "name" : "机场航司筛选工具-热门城市推荐-广州-查看详情",
+    "children" : [ {
+      "name" : "test_screen_rmcs_gz",
+      "uid" : "410c52d31f513df8",
+      "parentUid" : "52d20c30ab98029656fa26d2864455ad",
+      "status" : "passed",
+      "time" : {
+        "start" : 1594087828303,
+        "stop" : 1594087843925,
+        "duration" : 15622
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "52d20c30ab98029656fa26d2864455ad"
+  }, {
+    "name" : "机场航司筛选工具-热门城市推荐-上海-查看详情",
+    "children" : [ {
+      "name" : "test_screen_rmcs_sh",
+      "uid" : "bcc6e30f2a2e2ee2",
+      "parentUid" : "89e66ffc68b02bbda3f16b572ab93c4c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1594087843930,
+        "stop" : 1594087859561,
+        "duration" : 15631
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "89e66ffc68b02bbda3f16b572ab93c4c"
+  }, {
+    "name" : "机场航司筛选工具-热门城市推荐-深圳-查看详情",
+    "children" : [ {
+      "name" : "test_screen_rmcs_sz",
+      "uid" : "161ce45a04199836",
+      "parentUid" : "1d7cb5c7bee69c47c332e00c7acc18a5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1594087859564,
+        "stop" : 1594087875294,
+        "duration" : 15730
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "1d7cb5c7bee69c47c332e00c7acc18a5"
+  }, {
+    "name" : "机场航司筛选工具-热门航司推荐-东方航空-查看详情",
+    "children" : [ {
+      "name" : "test_screen_rmhs_dfhk",
+      "uid" : "cbcf8b8e6a81c966",
+      "parentUid" : "fd15498e0b699c750aa21033cb63392f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1594087875297,
+        "stop" : 1594087890954,
+        "duration" : 15657
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "fd15498e0b699c750aa21033cb63392f"
+  }, {
+    "name" : "机场航司筛选工具-热门航司推荐-海南航空-查看详情",
+    "children" : [ {
+      "name" : "test_screen_rmhs_hnhk",
+      "uid" : "516d4c0601216eb3",
+      "parentUid" : "a46593f9c00ea6f6169b2660ae998ba9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1594087890957,
+        "stop" : 1594087906583,
+        "duration" : 15626
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "a46593f9c00ea6f6169b2660ae998ba9"
+  }, {
+    "name" : "机场航司筛选工具-热门航司推荐-南方航空-查看详情",
+    "children" : [ {
+      "name" : "test_screen_rmhs_nfhk",
+      "uid" : "1cf622917d811862",
+      "parentUid" : "6693c7a800abdcaa79d24804f55c8645",
+      "status" : "passed",
+      "time" : {
+        "start" : 1594087906586,
+        "stop" : 1594087922200,
+        "duration" : 15614
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "6693c7a800abdcaa79d24804f55c8645"
+  }, {
+    "name" : "机场航司筛选工具-热门航司推荐-中国航空-查看详情",
+    "children" : [ {
+      "name" : "test_screen_rmhs_zghk",
+      "uid" : "eba964340c0d1d7",
+      "parentUid" : "91979281078cb7735e39f0c4c6e8ebb5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1594087922205,
+        "stop" : 1594087937844,
+        "duration" : 15639
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "91979281078cb7735e39f0c4c6e8ebb5"
+  }, {
+    "name" : "机场航司筛选工具-查看所有城市",
+    "children" : [ {
+      "name" : "test_screen_see_cs",
+      "uid" : "9e23938921ebcdfc",
+      "parentUid" : "d4198366f8c363ee8a15cc4fbfd22630",
+      "status" : "passed",
+      "time" : {
+        "start" : 1594087937847,
+        "stop" : 1594087947509,
+        "duration" : 9662
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "d4198366f8c363ee8a15cc4fbfd22630"
+  }, {
+    "name" : "机场航司筛选工具-查看所有航司",
+    "children" : [ {
+      "name" : "test_screen_see_hs",
+      "uid" : "395be86bc5fee070",
+      "parentUid" : "4406232eabdba5bad3db7378817c324f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1594087947519,
+        "stop" : 1594087957099,
+        "duration" : 9580
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "4406232eabdba5bad3db7378817c324f"
+  }, {
+    "name" : "机场航司筛选工具-查看所有机场",
+    "children" : [ {
+      "name" : "test_screen_see_jc",
+      "uid" : "7b2f136d0abcbdca",
+      "parentUid" : "7a6367577d5a252dd7a2fddcb9e57b6d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1594087957103,
+        "stop" : 1594087966674,
+        "duration" : 9571
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "7a6367577d5a252dd7a2fddcb9e57b6d"
+  }, {
+    "name" : "机场航司筛选工具-撑死",
+    "children" : [ {
+      "name" : "test_sereen_caty",
+      "uid" : "520267d8e51bb7cd",
+      "parentUid" : "0685881e8fef4386200fc99a06f613ea",
+      "status" : "failed",
+      "time" : {
+        "start" : 1594087966679,
+        "stop" : 1594087982655,
+        "duration" : 15976
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "0685881e8fef4386200fc99a06f613ea"
+  } ]
+}
